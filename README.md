@@ -1,1 +1,2 @@
 # nowWhat
+permalink: /index.html
