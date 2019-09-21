@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+  background-color:#eeeeee;
+}
+
+img {
+  height: 300px;
+  width: auto;
+  max-width: 800px;
+  max-height: 500px;
+  margin: auto;
+}
+
+h2 span {
+  background-color: #393e46;
+  opacity: 0.8;
+}
+
+.heading {
+  margin: 2% 0 2%;
+}
+
+.carousel {
+  background-color: #393e46;
+  padding: 3% 0 3%;
+  margin: 10px 0 10px;
+}
+
+.carousel-caption {
+  color: #fff;
+}
